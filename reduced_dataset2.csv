@@ -1,0 +1,328 @@
+ID,Title,Production Company,Distributor,Director,Writer,Actor1,Actor2,Actor3
+1,A Jitney Elopement,The Essanay Film Manufacturing Company,General Film Company,Charles Chaplin,Charles Chaplin,Charles Chaplin,Edna Purviance,
+2,A Jitney Elopement,The Essanay Film Manufacturing Company,General Film Company,Charles Chaplin,Charles Chaplin,Charles Chaplin,Edna Purviance,
+3,Greed,Metro-Goldwyn-Mayer (MGM),Metro-Goldwyn-Mayer (MGM),Eric von Stroheim,Eric von Stroheim,Zasu Pitts,Gibson Gowland,Jean Hersholt
+4,The Jazz Singer,Warner Bros. Pictures,Warner Bros. Pictures,Alan Crosland,Alfred A. Cohn,Al Jolson,May McAvoy,Warner Oland
+5,Barbary Coast,The Samuel Goldwyn Company,United Artists,Howard Hawks,Ben Hecht,Mariam Hopkins,Edward G. Robinson,Joel McCrea
+6,After the Thin Man,Metro-Goldwyn Mayer,Metro-Goldwyn Mayer,W.S. Van Dyke,Frances Goodrich,William Powell,Myrna Loy,James Stewart
+7,San Francisco,Metro-Goldwyn Mayer,Metro-Goldwyn Mayer,W.S. Van Dyke,Anita Loos,Clark Gable,Jeanette MacDonald,Spencer Tracy
+8,Alexander's Ragtime Band,Twentieth Century Fox Film Corporation,Twentieth Century Fox Film Corporation,Henry King,Kathryn Scola,Tyrone Power,Alice Faye,Don Ameche
+9,Shadow of the Thin Man,Metro-Goldwyn Mayer,Metro-Goldwyn Mayer,W.S. Van Dyke,Harry Kurnitz,William Powell,Myrna Loy,Barry Nelson
+10,The Maltese Falcon,Warner Bros. Pictures,Warner Bros. Pictures,John Huston,John Huston,Humphrey Bogart,Mary Astor,Gladys George
+11,Gentleman Jim,Warner Bros. Pictures,Warner Bros. Pictures,Raoul Walsh,Vincent Lawrence,Errol Flynn,Alexis Smith,Jack Carson
+12,"Hello Frisco, Hello",Twentieth Century Fox Film Corporation,Twentieth Century Fox Film Corporation,Bruce Humberstone,Robert Ellis,Alice Faye,John Payne,Jack Oakie
+13,Dark Passage,Warner Bros. Pictures,Warner Bros. Pictures,Delmer Daves,Delmer Daves & David Goodis,Humphrey Bogart,Lauren Bacal,Bruce Bennett
+14,Nora Prentiss,Warner Bros. Pictures,Warner Bros. Pictures,Vincent Sherman,N. Richard Nash,Ann Sheridan,Kent Smith,Bruce Bennett
+15,The Lady from Shanghai,Columbia Pictures Corp.,Columbia Pictures,Orson Welles,Orson Welles,Rita Hayworth,Orson Welles,Everett Sloane
+16,I Remember Mama,RKO Radio Pictures,RKO Radio Pictures,George Stevens,DeWitt Bodeen,Irene Dunne,Barbara Bel Geddes,Oskar Homolka
+17,To the Ends of the Earth,Kennedy-Buckman Pictures,Columbia Pictures,Robert Stevenson,Jay Richard Kennedy,Dick Powell,Signe Hasso,Maylia
+18,All About Eve,Twentieth Century Fox Film Corp.,Twentieth Century Fox Film Corp.,Joseph L. Mankiewicz,Joseph L. Mankiewicz,Bette Davis,Anne Baxter,George Sanders
+19,D.O.A,Cardinal Pictures,United Artists,Rudolph Mate,Russell Rouse,Edmond O'Brien,Pamela Britton,Luther Adler
+20,Woman on the Run,Fidelity Pictures Corporation,Universal Pictures,Norman Foster,Norman Foster,Ann Sheridan,Dennis O'Keefe,Robert Keith
+21,The House on Telegraph Hill,Twentieth Century Fox Film Corp.,Twentieth Century Fox Film Corp.,Robert Wise,Elick Moll,Richard Basehart,Valentina Cortese,William Lundigan
+22,Sudden Fear,Joseph Kaufmann Pictures,RKO Pictures,David Miller,Lenore J. Coffee,Joan Crawford,Jack Palance,Gloria Grahame
+23,The Caine Mutiny,Stanley Kramer Productions,Columbia Pictures,Edward Dmytryk,Stanley Roberts,Humphrey Bogart,Fred MacMurray,Jose Ferrer
+24,It Came From Beneath the Sea,Clover Productions,Columbia Pictures,Robert Gordon,George Worthing Yates,Kenneth Tobey,Faith Domergue,Donald Curtis
+25,The Ten Commandments,Paramount Pictures,Paramount Pictures,Cecil B. DeMille,"Jesse L. Lasky, Jr.",Charlton Heston,Yul Brynner,Anne Baxter
+26,Pal Joey,Columbia Pictures Corporation,Columbia Pictures,George Sidney,Dorothy Kingsley,Rita Hayworth,Frank Sinatra,Kim Novak
+27,The Lineup,Pajemer Productions,Columbia Pictures,Don Siegel,Stirling Silliphant,Eli Wallach,Robert Keith,Richard Jaeckel
+28,Vertigo,Alfred J. Hitchcock Productions,Paramount Pictures,Alfred Hitchcock,Alec Coppel,James Stewart,Kim Novak,Barbara Bel Geddes
+29,On the Beach,Stanley Kramer Productions,United Artists,Stanley Kramer,John Paxton,Gregory Peck,Ava Gardner,Fred Astaire
+30,Midnight Lace,Arwin Productions,Universal Pictures,David Miller,Ivan Goff,Doris Day,Rex Harrison,John Gavin
+31,Flower Drum Song,Fields Productions,Universal Pictures,Henry Koster,Joseph Fields,Nancy Kwan,James Shigeta,Benson Fong
+32,Pleasure of His Company,Perlsea Company,Paramount Pictures,George Seaton,Samuel A. Taylor,Fred Astaire,Debbie Reynolds,Lilli Palmer
+33,Susan Slade,Warner Bros. Pictures,Warner Bros. Pictures,Delmer Daves,Delmer Daves,Troy Donahue,Connie Stevens,Dorothy McGuire
+34,Swingin' Along,Twentieth Century Fox Film Corporation,Twentieth Century Fox Film Corporation,Charles Barton,Jameson Brewer,Tommy Noonan,Barbara Eden,Peter Marshall
+35,Birdman of Alcatraz,Norma Productions,United Artists,John Frankenheimer,Guy Trosper,Burt Lancaster,Karl Maden,Thelma Ritter
+36,Days of Wine and Roses,Warner Bros. Pictures,Warner Bros. Pictures,Blake Edwards,JP Miller,Jack Lemmon,Lee Remick,Charles Bickford
+37,Experiment in Terror,Columbia Pictures Corporation,Columbia Pictures,Blake Edwards,The Gordons,Glenn Ford,Lee Remick,Stefanie Powers
+38,The Birds,Universal Pictures,Universal Pictures,Alfred Hitchcock,Evan Hunter,Tippi Hedren,Suzanne Pleshette,Rod Taylor
+39,Good NeighborSam,Columbia Pictures Corporation,Columbia Pictures,David Swift,James Fritzell,Jack Lemmon,Romy Schneider,Dorothy Provine
+40,Marnie,Universal Pictures,Universal Pictures,Alfred Hitchcock,Jay Presson Allen,Tippi Hedren,Sean Connery,Martin Gabel
+41,Guess Who's Coming to Dinner,Columbia Pictures Corporation,Columbia Pictures,Stanley Kramer,William Rose,Spencer Tracy,Sidney Poitier,Katharine Hepburn
+42,Point Blank,Metro-Goldwyn Mayer,Metro-Goldwyn Mayer,John Boorman,Alexander Jacobs,Lee Marvin,Angie Dickinson,Keenan Wynn
+43,The Graduate,Embassy Pictures Corporation,Embassy Pictures Corporation,Mike Nichols,Calder Willingham,Anne Bancroft,Dustin Hoffman,Katharine Ross
+44,Bullitt,"Warner Brothers / Seven Arts
+Seven Arts",Warner Brothers,Peter Yates,Alan R. Trustman,Steve McQueen,Jacqueline Bisset,Robert Vaughn
+45,Petulia,Warner Brothers / Seven Arts,Warner Brothers / Seven Arts,Richard Lester,Lawrence B. Marcus,Julie Christie,George C. Scott,Richard Chamberlain
+46,Psych-Out,Dick Clark Productions,American International Pictures (AIP),Richard Rush,Betty Tusher,Jack Nicholson,Susan Strasberg,Dean Stockwell
+47,The Love Bug,Walt Disney Productions,Buena Vista Distribution,Robert Stevenson,Bill Walsh,Dean Jones,Michele Lee,David Tomlinson
+48,"Yours, Mine and Ours",Desilu Productions,United Artists,Melville Shavelson,"Bob Carroll, Jr.",Lucille Ball,Henry Fonda,Van Johnson
+49,Take the Money and Run,American Broadcasting Company (ABC),Cinerama Releasing Corporation,Woody Allen,Woody Allen,Woody Allen,Janet Margolin,
+50,They Call Me MISTER Tibbs,Mirisch Corporation,United Artists,Gordon Douglas,Alan R. Trustman,Sidney Poitier,Martin Landau,Barbara McNair
+51,Dirty Harry,The Malpaso Company,Warner Brothers,Don Siegel,Harry Julian Fink,Clint Eastwood,Harry Guardino,
+52,Harold and Maude,Mildred Lewis and Colin Higgins Productions,Paramount Pictures,Hal Ashby,Colin Higgins,Ruth Gordon,Bud Cort,
+53,The Organization,The Mirisch Corporation,United Artists,Don Medford,James R. Webb,Sidney Poitier,Barbara McNair,
+54,"Play it Again, Sam",Paramount Pictures,Paramount Pictures,Herbert Ross,Woody Allen,Woody Allen,Diane Keaton,Tony Roberts
+55,The Candidate,Redford-Ritchie Productions,Warner Bros. Pictures,Michael Ritchie,Jeremy Larner,Robert Redford,Peter Boyle,
+56,What's Up Doc?,Warner Bros. Pictures,Warner Bros. Pictures,Peter Bogdanovich,Peter Bogdanovich & Buck Henry,Barbra Streisand,Ryan O'Neal,
+57,American Graffiti,Universal Pictures,Universal Pictures',George Lucas,George Lucas,Richard Dreyfuss,Ron Howard,Paul Le Mat
+58,Magnum Force,The Malpaso Company,Warner Bros. Pictures,Ted Post,John Milius,Clint Eastwood,Hal Holbrook,Mitchell Ryan
+59,The Laughing Policeman,Twentieth Century Fox Film Corporation,American Broadcasting Company (ABC),Stuart Rosenberg,Thomas Rickman,Walter Matthau,Bruce Dern,Louis Gossett Jr.
+60,Freebie and the Bean,Warner Bros. Pictures,American Broadcasting Company (ABC),Richard Rush,Robert Kaufman,Alan Arkin,James Caan,Loretta Swit
+61,Herbie Rides Again,Walt Disney Productions,Buena Vista Distribution,Robert Stevenson,Bill Walsh,Helen Hayes,Ken Berry,Stefanie Powers
+62,The Conversation,American Zoetrope,Paramount Pictures,Francis Ford Coppola,Francis Ford Coppola,Gene Hackman,John Cazale,Allen Garfield
+63,The Towering Inferno,Irwin Allen Productions,Twentieth Century - Fox,John Guillermin,Stirling Silliphant,Steve McQueen,Paul Newman,William Holden
+64,Family Plot,Universal Pictures,Universal Pictures,Alfred Hitchcock,Ernest Lehman,Karen Black,Bruce Dern,Barbara Harris
+65,The Enforcer,Warner Bros. Pictures,Warner Bros. Pictures,James Fargo,Stirling Silliphant,Clint Eastwood,Tyne Daly,Harry Guardino
+66,High Anxiety,Twentieth Century Fox Film Corporation,Twentieth Century Fox Film Corporation,Mel Brooks,Mel Brooks,Mel Brooks,Madeline Kahn,Cloris Leachman
+67,A Night Full of Rain,Liberty Film,Warner Bros. Pictures,Lina Wertmuller,Lina Wertmuller,Candice Bergen,Giancarlo Gianni,
+68,Attack of the Killer Tomatoes,Four Square Productions,NAI Entertainment,John DeBello,John DeBello,David Miller,,
+69,Faces of Death,F.O.D Productions,Aquarius Releasing,Conan Le Cilaire,Alan Black,Michael Carr,,
+70,Foul Play,Paramount Pictures,Paramount Pictures,Colin Higgins,Colin Higgins,Goldie Hawn,Chevy Chase,Burgess Meredith
+71,Invasion of the Body Snatchers,Solofilm,United Artists,Philip Kaufman,Jack Finney,Donald Sutherland,Jeff Goldblum,Brooke Adams
+72,Superman,Dovemead Films,Warner Bros. Pictures,Richard Donner,Jerry Siegel,Christopher Reeve,Gene Hackman,Marlon Brando
+73,Escape From Alcatraz,Paramount Pictures,Paramount Pictures,Donald Siegel,Richard Tuggle,Clint Eastwood,Patrick McGoohan,Robert Blossom
+74,Time After Time,Orion Pictures Corp.,Columbia Broadcasting System (CBS),Nicholas Meyer,Karl Alexander,Malcolm McDowell,Mary Steenburgen,David Warner
+75,Can't Stop the Music,EMI Films,Associated Film Distribution (AFD),Nancy Walker,Allan Carr,Ray Simpson,David Hodo,Felipe Rose
+76,Heart Beat,Orion Pictures Corporation,Orion Pictures Corporation,John Byrum,John Byrum,Nick Nolte,Sissy Spacek,John Heard
+77,Nine to Five,Twentieth Century Fox Film Corporation,Twentieth Century Fox Film Corporation,Colin Higgins,Colin Higgins,Jane Fonda,Lily Tomlin,Dolly Parton
+78,Serial,Paramount Pictures,Paramount Pictures,Bill Persky,Rich Eustis,Martin Mull,Tuesday Weld,
+79,The Competition,Columbia Pictures Corporation,American Broadcasting Company (ABC),Joel Oliansky,Joel Oliansky,Richard Dreyfuss,Amy Irving,Lee Remick
+80,Chu Chu and the Philly Flash,Melvin Simon Productions,Columbia Broadcasting System (CBS),David Lowell Rich,Barbara Dana,Alan Arkin,Carol Burnett,
+81,Street Music,Pacificon Films,Specialty Films,Jenny Bowen,Jenny Bowen,Elizabeth Daily,Larry Breeding,Ned Glass
+82,48 Hours,Paramount Pictures,Paramount Pictures,Walter Hill,Walter Hill,Nick Nolte,Eddie Murphy,Annette O'Toole
+83,Chan is Missing,New Yorker Films,New Yorker Films,Wayne Wang,Wayne Wang,Wood Moy,Marc Hayashi,Lauren Chew
+84,Shoot the Moon,Metro-Goldwyn-Mayer (MGM),Metro-Goldwyn-Mayer (MGM),Alan Parker,Bo Goldman,Albert Finney,Diane Keaton,
+85,Star Trek II : The Wrath of Khan,Paramount Pictures,Paramount Pictures,Nicholas Meyer,Jack B. Sowards,William Shatner,Leonard Nimoy,George Takei
+86,Sudden Impact,Warner Bros. Pictures,Warner Bros. Pictures,Clint Eastwood,Harry Julian Fink,Clint Eastwood,Sondra Locke,
+87,The Right Stuff,The Ladd Company,The Ladd Company,Philip Kaufman,Philip Kaufman,Sam Shepard,Scott Glenn,Ed Harris
+88,Crackers,Universal Pictures,Universal Pictures,Louis Malle,Jeffrey Fiskin,Donald Sutherland,Jack Warden,Sean Penn
+89,Hard to Hold,Universal Pictures,Universal Pictures,Larry Peerce,"Thomas Hedley, Jr.",Rick Springfield,,
+90,The Times of Harvey Milk,UCLA Film and Television Archive,TC Films International,Rob Epstein,Rob Epstein,Harvey Milk,Harvey Firestein,Anne Kronenberg
+91,The Woman In Red,Orion Pictures Corp.,MGM Home Entertainment,Gene Wilder,Jean Loup Dabadie & Yves Robert,Gene Wilder,Charles Grodin,
+92,Thief of Hearts,Paramount Pictures,Paramount Pictures,Douglas Day Stewart,Douglas Day Stewart,Steven Bauer,David Caruso,Barbara Williams
+93,A View to a Kill,Metro-Goldwyn Mayer,MGM/UA Entertainment Company,John Glen,Richard Maibaum,Roger Moore,Christopher Walken,Tanya Roberts
+94,Dim Sum: A Little Bit of Heart,CIM,Orion Classics,Wayne Wang,Terrel Seltzer,Laureen Chew,Kim Chew,Victor Wong
+95,Jagged Edge,Columbia Pictures Corp.,Columbia Pictures,Richard Marquand,Joe Eszterhas,Glenn Close,Jeff Bridges,Peter Coyote
+96,Maxie,Elsboy Entertainment,Orion Pictures Corporation,Paul Aaron,Patricia Resnick,Glenn Close,Mandy Patinkin,Ruth Gordon
+97,Big Trouble in Little China,Twentieth Century Fox Film Corporation,Twentieth Century Fox Film Corporation,John Carpenter,Gary Goldman,Kurt Russell,Kim Catrall,James Hong
+98,Kamikaze Hearts,Leger/Bashore,Facets Multimedia Distribution,Juliet Bashore,Juliet Bashore,Tigr,Sharon Mitchell,
+99,Quicksilver,Columbia Pictures Corporation,Columbia Pictures,Thomas Michael Donnelly,Thomas Michael Donnelly,Kevin Bacon,Jami Gertz,Paul Rodriguez
+100,Star Trek IV: The Voyage Home,Paramount Pictures,Paramount Pictures,Leonard Nimoy,Steve Meerson,William Shatner,Leonard Nimoy,George Takei
+101,Burglar,Warner Bros. Pictures,Warner Bros. Pictures,Hugh Wilson,Joseph Loeb III,Whoopi Goldberg,Bobcat Goldwait,
+102,Innerspace,Amblin Entertainment,Warner Bros. Pictures,Joe Dante,Chip Proser,Dennis Quaid,Martin Short,Meg Ryan
+103,Beaches,Silver Screen Partners IV,Columbia Broadcasting System,Garry Marshall,Mary Agnes Donoghue,Bette Midler,Barbara Hershey,John Heard
+104,Patty Hearst,Atlantic Entertainment Group,Atlantic Releasing Corporation,Paul Schrader,Nicholas Kazan,Natasha Richardson,William Forsythe,Ving Rhames
+105,The Dead Pool,Warner Bros. Pictures,Warner Bros. Pictures,Buddy Van Horn,Harry Julian Fink,Clint Eastwood,Liam Neeson,Patricia Clarkson
+106,The Last of the Gladiators,Twin Tower Enterprises,Evel Videos,Martin Jay Sadoff,Martin Jay Sadoff,Evel Knievel,,
+107,The Presidio,Paramount Pictures,Paramount Pictures,Peter Hyams,Larry Ferguson,Sean Connery,Mark Harmon,Meg Ryan
+108,Tucker: The Man and His Dream,Lucasfilm,Paramount Pictures,Francis Ford Coppola,Arnold Schulman,Jeff Bridges,Joan Allen,Marin Landau
+109,Casualties of War,Columbia Pictures Corporation,Columbia Pictures,Brian DePalma,Daniel Lang,Michael J. Fox,Sean Penn,
+110,Common Threads: Stories From the Quilt,Home Box Office (HBO),Direct Cinema Limited,Rob Epstein,Jeffrey Friedman,Sara Lewinstein,David Mandell,
+111,Fat Man and Little Boy,Paramount Pictures,Paramount Pictures,Roland Joffe,Roland Joffe,Paul Newman,John Cusack,
+112,Indiana Jones and the Last Crusade,Paramount Pictures,Paramount Pictures,Steven Spielberg,Jeffrey Boam,Harrison Ford,Sean Connery,
+113,True Believer,Columbia Pictures Corporation,Columbia Pictures,Joseph Ruben,Wesley Strick,James Woods,"Robert Downey, Jr.",
+114,Another 48 Hours,Eddie Murphy Productions,Paramount Pictures,Walter Hill,Walter Hill,Eddie Murphy,Nick Nolte,
+115,Pacific Heights,Morgan Creek Productions,Twentieth Century Fox Film Corporation,John Schlesinger,Daniel Pyne,Melanie Griffith,Matthew Modine,
+116,Pretty Woman,Touchstone Pictures,Buena Vista Pictures,Garry Marshall,J.F. Lawton,Richard Gere,Julia Roberts,
+117,Class Action,Interscope Communications,Twentieth Century Fox Film Corp.,Michael Apted,Carolyn Shelby,Gene Hackman,Mary Elizabeth Mastrantonio,
+118,Dying Young,Twentieth Century Fox Corporation,Twentieth Century Fox Corporation,Joel Schumacher,Richard Friedenberg,Julia Roberts,Campbell Scott,
+119,Shattered,Capella International,Metro-Goldwyn-Mayer,Wolfgang Petersen,Wolfgang Petersen,Tom Berenger,Bob Hoskins,
+120,Star Trek VI: The Undiscovered Country,Paramount Pictures,Paramount Pictures,Nicholas Meyer,Nimoy,William Shatner,Leonard Nimoy,George Takei
+121,The Doctor,Silver Screen Partners IV,Buena Vista Pictures,Randa Haines,Robert Caswell,William Hurt,Christine Lahti,
+122,The Doors,Bill Graham Films,TriStar Pictures,Oliver Stone,J. Randal Johnson,Val Kilmer,Meg Ryan,
+123,Until the End of the World,Village Roadshow Pictures,Warner Bros. Pictures,Wim Wenders,Wim Wenders,Solveig Dommartin,,
+124,Basic Instinct,Carolco Pictures,TriStar Pictures,Paul Verhoeven,Joe Eszterhas,Michael Douglas,Sharon Stone,George Dzundza
+125,Final Analysis,Warner Bros. Pictures,Warner Bros. Pictures,Phil Joanou,Robert Berger,Richard Gere,Kim Basinger,
+126,Memoirs of an Invisible Man,Warner Bros. Pictures,Warner Bros. Pictures,John Carpenter,Robert Collector,Chevy Chase,Daryl Hannah,Sam Neill
+127,Raising Cain,Pacific Western,Universal Pictures,Brian DePalma,Brian DePalma,John Lithgow,,
+128,Sister Act,Touchstone Pictures,Buena Vista Pictures,Emile Ardolino,Joseph Howard,Whoopi Goldberg,Maggie Smith,
+129,Sneakers,Universal Pictures,Universal Pictures,Phil Alden Robinson,Walter Parkes,Sydney Poitier,Robert Redford,
+130,Vegas in Space,Troma Entertainment,MCA/Universal Home Video,Phillip R. Ford,Doris Fish,Doris Fish,Miss X,Ginger Quest
+131,Fearless,Spring Creek Productions,Warner Bros. Pictures,Peter Weir,Rafael Yglesias,Jeff Bridges,Isabella Rosellini,Rosie Perez
+132,Heart and Souls,Universal Pictures,Electric Parc,Tomas Gislason,Tomas Gislason,Jorgen Leth,,
+133,Joy Luck Club,Hollywood Pictures,National Broadcasting Company (NBC),Wayne Wang,Amy Tan,Kieu Chinh,Tsai Chin,France Nuyen
+134,Mrs. Doubtfire,Twentieth Century Fox Film Corporation,Twentieth Century Fox Film Corporation,Chris Columbus,Randi Mayem Singer,Robin Williams,Sally Field,Pierce Brosnan
+135,Sister Act 2: Back in the Habit,Touchstone Pictures,Buena Vista Pictures,Bill Duke,Joseph Howard,Whoopi Goldberg,Maggie Smith,
+136,So I Married an Axe Murderer,TriStar Pictures,TriStar Pictures,Thomas Schlamme,Robbie Fox,Mike Myers,Nancy Travis,
+137,The Nightmare Before Christmas,Touchstone Pictures,Buena Vista Pictures,Henry Selick,Tim Burton,Danny Elfman,Catherine O'Hara,
+138,Forrest Gump,Paramount Pictures,Paramount Pictures,Robert Zemeckis,Eric Roth,Tom Hanks,Robin Wright,
+139,Getting Even with Dad,Metro-Goldwyn-Mayer (MGM),Metro-Goldwyn-Mayer (MGM),Howard Dutch,Tom S. Parker,Macaulay Culkin,Ted Danson,
+140,Golden Gate,American Playhouse Theatrical Films,The Samuel Goldwyn Company,John Madden,David Henry Hwang,Matt Dillon,Joan Chen,
+141,Interview With The Vampire,Geffen Pictures,Geffen Pictures,Neil Jordan,Anne Rice,Brad Pitt,Christian Slater,Tom Cruise
+142,Junior,Northern Lights Entertainment,Universal Pictures,Ivan Reitman,Kevin Wade,Arnold Schwarzenegger,Danny DeVito,Emma Thompson
+143,Nina Takes a Lover,Alan Jacobs Productions,Columbia TriStar Home Video,Alan Jacobs,Alan Jacobs,Laura San Giacomo,Paul Rhys,
+144,When a Man Loves a Woman,Touchstone Pictures,Buena Vista Pictures,Luis Mandoki,Ronald Bass,Andy Garcia,Meg Ryan,
+145,Copycat,Regency Enterprises,Warner Bros. Pictures,Jon Amiel,Ann Biderman,Sigourney Weaver,Holly Hunter,
+146,Jade,Paramount Pictures,Paramount Pictures,William Friedkin,Joe Eszterhas,David Caruso,Linda Fiorentino,Chazz Palminteri
+147,Nine Months,1492 Pictures,Twentieth Century Fox Film Corp.,Chris Columbus,Chris Columbus,Hugh Grant,Julianne Moore,Robin Williams
+148,Panther,Gramercy Pictures,PolyGram Video,Mario Van Peebles,Mario Van Peebles,Kadeem Hardison,Bookeem Woodbine,
+149,The Net,Columbia Pictures Corp.,Columbia Pictures,Irwin Winkler,John Brancato,Sandra Bullock,Jeremy Northam,
+150,Down Periscope,Twentieth Century Fox Film Corp.,Twentieth Century Fox Film Corp.,David S. Ward,Hugh Wilson,Kelsey Grammar,Lauren Holly,
+151,Dream for an Insomniac,Triton Productions,Columbia TriStar Home Video,Tiffanie DeBartolo,Tiffanie DeBartolo,Ione Skye,Jennifer Aniston,
+152,Happy Gilmore,Brillstein-Grey Entertainment,Universal Pictures,Dennis Dugan,Tim Herlihy,Adam Sandler,,
+153,Homeward Bound II: Lost in San Francisco,Walt Disney Pictures,Buena Vista Pictures,David R. Ellis,Sheila Burnford,Michael J. Fox,Sally Field,
+154,Jack,American Zoetrope,Buena Vista Pictures,Francis Ford Coppola,James DeMonaco,Robin Williams,Diane Lane,
+155,James and the Giant Peach,Skellington Productions,Walt Disney Studios Home Entertainment,Henry Selick,Karey Kirkpatrick,Richard Dreyfuss,Jane Leeves,
+156,Mother,Paramount Pictures,Paramount Pictures,Albert Brooks,Albert Brooks,Albert Brooks,Debbie Reynolds,
+157,Phenomenon,Touchstone Pictures,Buena Vista Pictures,Jon Turteltaub,Gerald Dipego,John Travolta,Kyra Sedgwick,
+158,The Fan,Mandalay Entertainment,Columbia TriStar,Tony Scott,Phoef Sutton,Robert De Niro,Wesley Snipes,
+159,The Rock,Hollywood Pictures,Buena Vista Pictures,Michael Bay,David Weisberg,Sean Connery,Nicolas Cage,
+160,Tin Cup,Regency Enterprises,Warner Bros. Pictures,Ron Shelton,John Norville,Kevin Costner,Rene Russo,
+161,A Smile Like Yours,Paramount Pictures,Paramount Pictures,Keith Samples,Keith Samples & Kevin Meyer,Greg Kinnear,Lauren Holly,
+162,Dream with the Fishes,3 Ring Circus Films,Sony Pictures Classics,Finn Taylor,Finn Taylor & Jeffrey Brown,David Arquette,Brad Hunt,
+163,Fathers' Day,Northern Lights Entertainment,Columbia Broadcasting System,Ivan Reitman,Lowell Ganz,Robin Williams,Billy Crystal,
+164,Flubber,Walt Disney Pictures,Buena Vista Pictures,Les Mayfield,Samuel W. Taylor,Robin Williams,Marcia Gay Harden,
+165,George of the Jungle,Walt Disney Pictures,Buena Vista Pictures,Sam Weisman,Jay Ward,Brendan Fraser,Leslie Mann,
+166,Metro,Touchstone Pictures,Buena Vista Pictures,Thomas Carter,Randy Feldman,Eddie Murphy,,
+167,The Game,Polygram Filmed Entertainment,Polygram Filmed Entertainment,David Fincher,John Brancato,Michael Douglas,Sean Penn,Deborah Kara Unger
+168,Around the Fire,Paradigm Studio,Ardustry Home Entertainment,John Jacobsen,John Comerford,Tara Reid,,
+169,City of Angels,Atlas Entertainment,Warner Bros. Pictures,Brad Silberling,Dana Stevens,Nicolas Cage,Meg Ryan,
+170,Desperate Measures,Mandalay Entertainment,TriStar Pictures,Barbet Schroeder,David Klass,Michael Keaton,Andy Garcia,Raven-Symone
+171,Doctor Dolittle,Twentieth Century Fox Film Cooperation,Twentieth Century Fox Film Cooperation,Betty Thomas,Nat Mauldin,Eddie Murphy,Ossie Davis,
+172,How Stella Got Her Groove Back,Twentieth Century Fox Film Corporation,Twentieth Century Fox Film Corporation,Kevin Rodney Sullivan,Terry McMillan,Angela Bassett,Taye Diggs,
+173,Patch Adams,Bungalow 78 Productions,Universal Pictures,Tom Shadyac,Steve Oedekerk,Robin Williams,Philip Seymour Hoffman,
+174,Sphere,Constant c Productions,Warner brothers Pictures,Barry Levinson,Kurt Wimmer,Dustin Hoffman,Sharon Stone,
+175,The Parent Trap,Walt Disney Pictures,Buena Vista Pictures,Nancy Meyers,Nancy Meyers,Lindsay Lohan,Dennis Quaid,
+176,What Dreams May Come,Polygram Filmed Entertainment,Polygram Filmed Entertainment,Vincent Ward,Ron Bass,Robin Williams,"Cuba Gooding, Jr.",
+177,Bicentennial Man,1492 Pictures,Buena Vista Pictures,Chris Columbus,Nicholas Kazan,Robin Williams,,
+178,Edtv,Imagine Entertainment,MCA / Universal Pictures,Ron Howard,Lowell Ganz,Matthew McConaughey,Jenna Elfman,
+179,Seven Girlfriends,White Dwarf Productions,Lions Gate Films Home Entertainment,Paul Lazarus,Paul Lazarus,Laura Leighton,Tim Daly,
+180,Stigmata,Metro-Goldwyn Mayer,Metro-Goldwyn Mayer Distributing,Rupert Wainwright,Tom Lazarus,Patricia Arquette,Gabriel Byrne,
+181,The Bachelor,George Street Pictures,New Line Cinema,Gary Sinyor,Steve Cohen,Chris O'Donnell,Renee Zellweger,
+182,The Matrix,Silver Pictures,Warner Bros. Pictures,The Wachowski Brothers,The Wachowski Brothers,Keanu Reeves,Laurence Fishburne,
+183,The Other Sister,Mandeville Films,Buena Vista Pictures,Garry Marshall,Garry Marshall,Juliette Lewis,Diane Keaton,
+184,Bedazzled,Twentieth Century Fox Film Corp.,Twentieth Century Fox Film Corp.,Harold Ramis,Harold Ramis,Brendan Fraser,Elizabeth Hurley,
+185,Boys and Girls,Punch 21 Productions,Dimension Films,Robert Iscove,The Drews,"Freddie Prinze, Jr.",Alyson Hannigan,
+186,Groove,415 Productions,Sony Pictures Classics,Greg Harrison,Greg Harrison,Chris Ferreira,Elizabeth Sun,
+187,Just One Night,Panoptic Pictures,First Look International,Alan Jacobs,Alan Jacobs,Timothy Hutton,Maria Grazia Cucinotta,
+188,Live Nude Girls Unite,Constant Communication,First Run Features,Vicky Funari,Vicky Funari,,,
+189,Playing Mona Lisa,The Bubble Factory,Buena Vista Pictures,Matthew Huffman,Marni Freedman,Alicia Witt,Harvey Fierstein,
+190,Romeo Must Die,Silver Pictures,Warner Bros. Pictures,Andrzej Bartkowiak,Mitchell Kapner,Jet Li,Aaliyah,
+191,Sausalito,B.O.B and Partners,,Andrew Lau,,Maggie Cheung,Leon Lai,
+192,Woman on Top,Fox Searchlight Pictures,Fox Searchlight Pictures,Fina Torres,Vera Blasi,Penelope Cruz,,
+193,By Hook or By Crook,Steakhaus Productions,Artistic License,Harriet Dodge & Silas Howard,Harriet Dodge & Silas Howard,Silas Howard,,
+194,Dr. Dolittle 2,Twentieth Century Fox Film Corp.,Twentieth Century Fox Film Corp.,Steve Carr,Larry Levin,Eddie Murphy,Kristen Wilson,
+195,Haiku Tunnel,Hello Hooker Productions,Sony Pictures Classics,Jakob Kornbluth & Josh Kornbluth,Jakob Kornbluth & Josh Kornbluth,Josh Kornbluth,Warren Keith,
+196,Mission (aka City of Bars),NA,NA,Loren Marsh,Loren Marsh,Chris Coburn,,
+197,Never Die Twice,Scott / Kelly Films,,Sean A.F. Scott,Sean A.F. Scott & Nancy L. Kelly,Claudia Christian,,
+198,Serendipity,Miramax Films,Miramax Home Entertainment,Peter Chelsom,Marc Klein,John Cusack,Kate Beckinsale,
+199,Sweet November,Warner Bros. Pictures,Warner Bros. Pictures,Pat O'Connor,Paul Yurick,Keanu Reeves,Charlize Theron,
+200,The Princess Diaries,Walt Disney Pictures,Buena Vista Pictures,Garry Marshall,Gina Wendkos,Julie Andrews,Anne Hathway,
+201,The Wedding Planner,Columbia Pictures,Sony Pictures Entertainment,Adam Shankman,Pamela Falk,Jennifer Lopez,Matthew McConaughey,
+202,40 Days and 40 Nights,Miramax Films,Miramax Films,Michael Lehmann,Robert Perez,Josh Hartnett,Shaynnyn Sossamon,
+203,Cherish,3 Ring Circus Films,Fine Line Features,Finn Taylor,Finn Taylor,Brad Hunt,Robin Tunney,
+204,High Crimes,Twentieth Century Fox Film Corporation,Twentieth Century Fox Film Corporation,Mel Brooks,Mel Brooks,Mel Brooks,Madeline Kahn,
+205,Rollerball,Atlas Entertainment,MGM Home Entertainment,John McTiernan,William Harrison,Chris Klein,Jean Reno,
+206,The Sweetest Thing,Columbia Pictures Corp.,Columbia Pictures,Roger Kumble,Nancy M. Pimental,Cameron Diaz,Christina Applegate,
+207,Confessions of a Burning Man,Hotbed Media,Windline Films,Paul Barnett,N/A,Kevin Epps,Anna Getty,
+208,Dopamine,Kontent Films,Sundance Channel Home Entertainment,Mark Decena,Mark Decena & Timothy Breitbach,John Livingston,Sabrina Lloyd,
+209,House of Sand and Fog,DreamWorks SKG,DreamWorks Distribution,Vadim Perelman,Vadim Perelman,Jennifer Connelly,Ben Kingsley,
+210,Hulk,Universal Pictures,Universal Pictures,Ang Lee,Stan Lee,Eric Bana,Jennifer Connelly,
+211,Julie and Jack,Moviehead Pictures,Echelon Entertainment,James Nguyen,James Nguyen & Joe Bright,Jenn Gotzon,Tippi Hedren,
+212,Mona Lisa Smile,Revolution Studios,Columbia Pictures,Mike Newell,Lawrence Konner,Julia Roberts,Kirsten Dunst,
+213,Swing,unlisted,Crazy Dreams Entertainment,Martin Guigui,Mary Keil,Constance Brenneman,,
+214,The Core,David Foster Productions,Paramount Pictures,John Amiel,Cooper Lane,Aaron Eckhart,Hilary Swank,
+215,The Fog of War,Sony Pictures Classics,Sony Pictures Classics,Errol Morris,N/A,Robert McNamara,,
+216,Under the Tuscan Sun,Touchstone Pictures,Buena Vista Pictures,Audrey Wells,Audrey Wells,Diane Lane,Sandra Oh,
+217,50 First Dates,Columbia Pictures Corporation,Columbia Pictures,Peter Segal,George Wing,Adam Sandler,Drew Barrymore,
+218,American Yearbook,All Planet Studios,N/A,Brian Ging,Brian Ging,Nick Tagas,Jon Carlo Alvarez,
+219,Fandom,The Digital Golem,Cinequest Distribution,Nicholas Tucker,Nicholas Tucker & Mark Hefti,Mark Hefti,Peter Quintana,
+220,Red Diaper Baby,Hello Hooker Productions,Sundance Channel,Doug Pray,Josh Kornbluth,Josh Kornbluth,,
+221,The Assassination of Richard Nixon,Anhelo Productions,THINKFilm,Niels Mueller,Niels Mueller & Kevin Kennedy,Sean Penn,Naomi Watts,
+222,Twisted,Paramount Pictures,Paramount Pictures,Philip Kaufman,Sarah Thorp,Ashley Judd,Samuel L. Jackson,
+223,What the Bleep Do We Know,Captured Light,Samuel Goldwyn Films,William Arntz,William Arntz & Betsy Chasse,Marlee Matlin,,
+224,24 Hours on Craigslist,Yerba Buena Productions,Zealot Pictures,Michael Ferris Gibson,N/A,Craig Newmark,,
+225,Bee Season,Bee Season Productions,Fox Searchlight Pictures,Scott McGehee,David Siegel,Richard Gere,Juliette Binoche,
+226,Just Like Heaven,DreamWorks SKG,DreamWorks Distribution,Mark Waters,Peter Tolan,Reese Witherspoon,Mark Ruffalo,
+227,Night of Henna,Zee Films,Illuminare Entertainment,Hassan Zee,Hassan Zee,Joyce Carlin,Nancy Carlin,
+228,Rent,Rent Productions LLC,Columbia Pictures,Chris Columbus,Stephen Chbosky,Anthony Rapp,Rosario Dawson,
+229,The Californians,Parker Film Company,Fabrication Films,Jonathan Parker,Jonathan Parker & Catherine DiNapoli,Noah Wyle,,
+230,The Zodiac,Blackwater Films,THINKFilm,Alexander Bulkley,Alexander Bulkley & Kelley Bulkeley,Justin Chambers,Robin Tunney,
+231,Tweek City,Tweek City LLC,Maverick Entertainment Group,Eric G. Johnson,Eric G. Johnson,Giuseppe Andrews,,
+232,The Bridge,Easy There Tiger Productions,IFC Films,Eric Steel,N/A,John Snowden,,
+233,The Pursuit of Happyness,Columbia Pictures Corporation,Columbia Pictures,Steven Conrad,Gabriele Muccino,Will Smith,Jayden C. Smith,
+234,Zodiac,Paramount Pictures,Paramount Pictures,David Fincher,James Vanderbilt,Jake Gyllenhaal,Mark Ruffalo,
+235,Milk,Focus Features,Focus Features,Gus Van Sant,Dustin Lance Black,Sean Penn,Emile Hirsch,
+236,Babies,Canal+,Focus Features,Thomas Balmes,Thomas Balmes,Bayar,Hattie,
+237,Broken-A Modern Love Story,RKW Films,,Ryan K. Whiting,Ryan K. Whiting,,,
+238,God is a Communist?* (show me heart universe),Trismegistus Productions,,Jon Poznanter,Jon Poznanter,John Wynn,,
+239,Hereafter,GT Films,Warner Bros. Pictures,Clint Eastwood,Peter Morgan,Matt Damon,Cecile De France,
+240,180,SPI Cinemas,,Jayendra,"Umarji Anuradha, Jayendra, Aarthi Sriram, & Suba",Siddarth,Nithya Menon,Priya Anand
+241,Hemingway & Gelhorn,"Attaboy Films, For Whom Productions, Home Box Office (HBO)",Home Box Office (HBO),Philip Kaufman,Jerry Stahl & Barbara Turner,Nicole Kidman,Clive Owen,
+242,I's,Banshee Cinema,,Chris Edgette,Kyle Tuck,,,
+243,Alcatraz,Bonanza Productions Inc.,Warner Bros. Television,J.J. Abrams,Steven Lilien,Sarah Jones,Jorge Garcia,
+244,CSI: NY- episode 903,CBS Television Studios,Columbia Broadcasting System,Vikki Williams,Anthony E. Zuiker,Gary Sinise,Sela Ward,
+245,On the Road,SPAD Films,IFC Films & Sundance Selects,Walter Salles,Jack Kerouac & Jose Rivera,Garrett Hedlund,Viggo Mortenson,
+246,The Master,H.H. Project,Weinstein Company,Paul Thomas Anderson,Paul Thomas Anderson,Philip Seymour Hoffman,Joaquin Phoenix,
+247,Big Sur,3311 Productions,,Michael Polish,Jack Kerouac & Michael Polish,Josh Lucas,Kate Bosworth,Stana Katic
+248,Blue Jasmine,Perdido Productions,Sony Pictures Classics,Woody Allen,Woody Allen,Cate Blanchett,Alec Baldwin,Peter Sarsgaard
+249,Knife Fight,Divisadero Pictures & Knife Fight,Eagle Films,Bill Guttentag,Bill Guttentag & Chris Lehane,Rob Lowe,Julie Bowen,Jamie Chung
+250,Red Widow,Beyond Pix,American Broadcasting Company (ABC),Alon Aranya,Melissa Rosenberg,Radha Mitchell,Sterling Beaumon,Clifton Collins Jr.
+251,The Internship,Twentieth Century Fox Film Corp.,Twentieth Century Fox Film Corporation,Shawn Levy,Vince Vaughn,Vince Vaughn,Owen Wilson,Rose Byrne
+252,About a Boy,NBC Studios,National Broadcasting Company,Mark J. Kunerth,Jason Katims,David Walton,Minnie Driver,
+253,Big Eyes,Blink & Wink Productions,Weinstein Company,Tim Burton,Scott Alexander,Amy Adams,Krysten Ritter,Christoph Waltz
+254,Dawn of the Planet of the Apes,"Fox Louisiana Productions, LLC",Twentieth Century Fox,Matt Reeves,Rick Jaffa,Gary Oldman,Keri Russell,Andy Serkis
+255,Godzilla,"Nautilus Productions, LLC",Warner Bros. Pictures,Gareth Edwards,Max Borenstein,Aaron Taylor-Johnson,Elizabeth Olsen,Bryan Cranston
+256,Looking,"Mission Street Productions, LLC",Home Box Office (HBO),Andrew Haigh,Michael Lannan,Jonathan Groff,Frankie J. Alvarez,Murray Bartlett
+257,Love & Taxes,Bad Company Films,,Jacob Kornbluth,Jacob Kornbluth,Jacob Kornbluth,,
+258,"Murder in the First, Season 1",Turner North Center Productions,Turner Network Television (TNT),Steven Bochcho,Eric Lodal,Taye Diggs,Kathleen Robertson,Ian Anthony Dale
+259,Need For Speed,"Need For Speed Productions, LLC",Walt Disney Studios Motion Pictures,Scott Waugh,George Gatins,Aaron Paul,Dominic Cooper,Imogen Poots
+260,Parks and Recreation,"NBC Universal Media, LLC","NBC Universal Media, LLC",Dean Holland,Greg Daniels,Amy Poehler,,
+261,Age of Adaline,Lionsgate / Sidney Kimmel Entertainment / Lakeshore Entertainment,,Lee Toland Krieger,J. Mills Goodloe,Blake Lively,Harrison Ford,Ellen Burstyn
+262,Americana,Sutro Films LLC,,Zachary Shedd,Zachary Shedd,Kelli Garner,Jack Davenport,Peter Coyote
+263,Ant-Man,"PYM Particles Productions, LLC",Walt Disney Studios Motion Pictures,Peyton Reed,Gabriel Ferrari,Michael Douglas,Paul Rudd,
+264,Cardinal X,Fire Horse Film Productions LLC,,Annie Wang,Annie Wang,Annie Q,Francesca Eastwood,Pierson Fode
+265,I Am Michael,That’s Hollywood,,Justin Kelly,Justin Kelly,James Franco,Emma Roberts,Zachary Quinto
+266,Looking Season 2 ep 202,"Mission Street Productions, LLC",HBO,Andrew Haigh,Michael Lannan,Jonathan Groff,Frankie Alvarez,Murray Bartlett
+267,Looking Season 2 ep 203,"Mission Street Productions, LLC",HBO,Andrew Haigh,Michael Lannan,Jonathan Groff,Frankie Alvarez,Murray Bartlett
+268,Looking Season 2 ep 204,"Mission Street Productions, LLC",HBO,Andrew Haigh,Michael Lannan,Jonathan Groff,Frankie Alvarez,Murray Bartlett
+269,Looking Season 2 ep 205,"Mission Street Productions, LLC",HBO,Andrew Haigh,Michael Lannan,Jonathan Groff,Frankie Alvarez,Murray Bartlett
+270,Looking Season 2 ep 206,"Mission Street Productions, LLC",HBO,Andrew Haigh,Michael Lannan,Jonathan Groff,Frankie Alvarez,Murray Bartlett
+271,Looking Season 2 ep 207,"Mission Street Productions, LLC",HBO,Andrew Haigh,Michael Lannan,Jonathan Groff,Frankie Alvarez,Murray Bartlett
+272,Looking Season 2 ep 208,"Mission Street Productions, LLC",HBO,Andrew Haigh,Michael Lannan,Jonathan Groff,Frankie Alvarez,Murray Bartlett
+273,Looking Season 2 ep 209,"Mission Street Productions, LLC",HBO,Andrew Haigh,Michael Lannan,Jonathan Groff,Frankie Alvarez,Murray Bartlett
+274,Looking Season 2 ep 210,"Mission Street Productions, LLC",HBO,Andrew Haigh,Michael Lannan,Jonathan Groff,Frankie Alvarez,Murray Bartlett
+275,"Murder in the First, Season 2",Turner North Center Productions,Turner Network Television (TNT),Steven Bochcho,Eric Lodal,Taye Diggs,Kathleen Robertson,Ian Anthony Dale
+276,Quitters,"Frederick & Ashbury, LLC.",,Noah Pritzker,Noah Pritzker,Kara Hayward,Mira Sorvino,Saffron Burrows
+277,San Andreas,"Upside Down Productions, Inc.",Warner Bros.,Brad Peyton,Allan Loeb,Dwayne Johnson,,
+278,Sense8,"Unpronounceable Productions, LLC",Netflix,The Wachowskis,The Wachowskis,Jamie Clayton,,
+279,"Smile Again, Jenny Lee",Carlo Caldana/Marguery Films,,Carlo Caldana,Linda Demetrick,Craig Tsuyumine,Puneet Prasad,Larry Kitagawa
+280,Steve Jobs,RDF Productions LLC,Universal Pictures,Danny Boyle,Aaron Sorkin,Michael Fassbender,Kate Winslet,Seth Rogen
+281,Summertime,"Creative Monster Productions, Inc.",01 Distribution,Gabriele Muccino,Gabriele Muccino,Jessica Rothe,Scott Bakula,Matilda Anna Ingrid Lutz
+282,Terminator - Genisys,T5 Productions LLC,Paramount Pictures,Alan Taylor,James Cameron,Arnold Schwarzenegger,Jason Clarke,
+283,The Diary of a Teenage Girl,"Diary the Movie, LLC",Sony Pictures Classics,Marielle Heller,Marielle Heller,Alexander Skarsgard,Kristen Wiig,Christopher Meloni
+284,Birth of the Dragon,"BOTD U.S. Productions, Inc.",Kylin Pictures,George Nolfi,"Christopher Wilkinson, Stephen J. Rivele",Philip Ng,Billy Magnussen,Yu Xia
+285,Chance - Season 1 ep105,TVM Productions,HULU,Victoria Morrow,Roxann Dawson,Hugh Laurie,Gretchen Mol,Ethan Suplee
+286,Chance - Season 1 Pilot,TVM Productions,HULU,Lenny Abrahamson,Alexandra Cunningham and Kem Nunn,Hugh Laurie,Gretchen Mol,Ethan Suplee
+287,Chance - Season 1ep105,TVM Productions,HULU,Victoria Morrow,Roxann Dawson,Hugh Laurie,Gretchen Mol,Ethan Suplee
+288,Chance- Season 1 ep102,TVM Productions,HULU,Lenny Abrahamson,Alexandra Cunningham,Hugh Laurie,Gretchen Mol,Ethan Suplee
+289,Chance- Season 1 ep103,TVM Productions,HULU,Michael Lehmann,Kem Nunn,Hugh Laurie,Gretchen Mol,Ethan Suplee
+290,Chance- Season 1 ep104,TVM Productions,HULU,Carl Franklin,Peter Elkoff,Hugh Laurie,Gretchen Mol,Ethan Suplee
+291,Chance- Season 1 ep106,TVM Productions,HULU,Sara Gran,Dan Attias,Hugh Laurie,Gretchen Mol,Ethan Suplee
+292,Chance- Season 1 ep107,TVM Productions,HULU,Alexandra Cunningham and Kem Nunn,Michael Lehmann,Hugh Laurie,Gretchen Mol,Ethan Suplee
+293,Chance- Season 1 ep108,TVM Productions,HULU,Peter Elkoff and Victoria Morrow,Andrew Bernstein,Hugh Laurie,Gretchen Mol,Ethan Suplee
+294,Chance- Season 1 ep109,TVM Productions,HULU,Sara Gran and Pete Begler,Dan Attias,Hugh Laurie,Gretchen Mol,Ethan Suplee
+295,Chance- Season 1 ep110,TVM Productions,HULU,Alexandra Cunningham and Kem Nunn,Michael Lehmann,Hugh Laurie,Gretchen Mol,Ethan Suplee
+296,"Looking ""Special""","Mission Street Productions, LLC",HBO,Andrew Haigh,Michael Lannan,Jonathan Groff,Frankie Alvarez,Murray Bartlett
+297,"Murder in the First, Season 3",Turner North Center Productions,Turner Network Television (TNT),Steven Bochcho,Eric Lodal,Taye Diggs,Kathleen Robertson,Ian Anthony Dale
+298,Pushing Dead,"Pushing Dead , LLC",TBD,Tom Brown,Tom Brown,Danny Glover,James Roday,Robin Weigert
+299,Sense8 - Season 2,"Unpronounceable Productions, LLC",Netflix,Wachowski Siblings,"J. Michael Straczynski, Wachowiski Siblings",Jamie Clayton,Daryl Hannah,Naveen Andrews
+300,Ballers Season 3,"Chori Perros Productions, LLC",HBO,Julian Farino,Stephen Levinson,Dwayne Johnson,John David Washington,Omar Benson Miller
+301,"Budding Prospects, Pilot",Picrow Streaming Inc.,Amazon,Terry Zwigoff,"Melissa Axelrod, T. C. Boyle (based on the book by)",Adam Rose,Will Sasso,Joel David Moore
+302,Chance Season 2,TVM Productions Inc.,Hulu,Rozann Dawson,Alexandra Cunningham,Hugh Laurie,Greta Lee,Ethan Suplee
+303,Etruscan Smile,"Po Valley Productions, LLC",TBD,Oded Binnun/ Michel Brezis,"Sarah Bellwood, Michal Lali Kagan, Michael McGowan Amital Stern, Jose Luis Sampedro",Brian Cox,Roseanne Arquette,Thora Birch
+304,GirlBoss,"Hippolyta Productions, LLC",Netflix,"Jamie Babbit, Amanda Brotchie, Steven K. Tsuchida, Christian Ditter, John Riggi",Kay Cannon,Britt Robertson,Ellie Reed,Amanda Rea
+305,Silicon Valley Season 4,"Brown Hill Productions, LLC",HBO,Mike Judge,John Altschuler,Thomas Middleditch,T.J. Miller,Josh Brener
+306,When We Rise,Film 49 Productions,Amercian Broadcasting Company,Gus Van Sant,Dustin Lance Black,Guy Pierce,Mary-Louise Parker,Michael Kenneth Williams
+307,Beautiful Boy,Big Indie Pictures,Amazon Studios,Felix van Groeningen,Luke Davies,Steve Carell,Timothee Chalamet,Maura Tierney
+308,Ant-Man and the Wasp,"PYM Particles Productions II, LLC",Walt Disney Studios Motion Pictures,Peyton Reed,Chris McKenna,Paul Rudd,Evangeline Lilly,Michael Douglas
+309,Bitter Melon,Bitter Melon Film LLC/Mammoth Pictures,"ABS-CBN, Gravitas Ventures",H.P. Mendoza,H.P. Mendoza,Jon Norman Schneider,Patrick Epino,Brian Rivera
+310,Venom,"L.O.Z. Productions, Inc.","Columbia Pictures, Sony Pictures Releasing",Ruben Fleischer,"Jeff Pinkner, Scott Rosenberg",Tom Hardy,Michelle Wiliams,Riz Ahmed
+311,A Taiwanese Tale of Two Cities,Envision Productions Inc.,Netflix,Tien-Lun Yeh,"Ling-Hui Chen, Nancy Chen, Chih-Chi Fan, Chia-Hui Lin",Tammy Cheng,Peggy Tseng,Shen-Hao Wen
+312,The OA Part II,Lunar Mining LLC,Netflix,Zal Batmanglij,"Zal Batmanglij, Brit Marling",Brit Marling,Emory Cohen,Patrick Gibson
+313,Always Be My Maybe,"Isla Productions, LLC",Netflix,Nahnatchka Khan,"Michael Golamco, Randall Park, Ali Wong",Ali Wong,Randall Park,Keanu Reeves
+314,Tales of the City,Universal Television LLC,Netflix,"Alan Poul, Silas Howard, Stacie Passon","Armistead Maupin, Lauren Morelli, Hansol Jung, Marcus Gardley",Laura Linney,Ellen Page,Murray Bartlett
+315,The Last Black Man in San Francisco,"LBMISF, LLC",A24,Joe Talbot,"Joe Talbot, Jimmie Fails, Rob Richert",Jimmie Fails,Jonathan Majors,Danny Glover
+316,The Phone/Jexi,CBS Films Inc.,Lionsgate,"Jon Lucas, Scott Moore","Jon Lucas, Scott Moore",Adam Devine,Alexandra Shipp,Michael Pena
+317,DEVS,Minim Productions,FX Network,Alex Garland,Alex Garland,Sonoya Mizuno,Nick Offerman,Jin Ha
+318,Sonic the Hedgehog,"Paramount Overseas Productions, Inc.",Paramount Pictures,Jeff Fowler,"Josh Miller, Patrick Casey, Oren Uziel",Jim Carrey,James Marsden,Ben Schwartz
+319,Women is Losers,Look at the Moon Pictures,,Lissette Feliciano,Lissette Feliciano,Lorenza Izzo,Simu Liu,Liza Weil
+320,Shit and Champagne,"Shaboom Boom, LLC",,D'Arcy Drollinger,D'Arcy Drollinger,D'Arcy Drollinger,Matthew Martin,Steven LeMay
+321,Alive,CBS Corporation - CBS Studios Inc./CBS Television Studios,CBS,Uta Briesewitz,Jason Tracey,Ryan Phillippe,Mageina Tovah,Katrina Law
+322,Venom: Let There Be Carnage,SM Film Productions,Sony Pictures,Andy Serkis,Kelly Marcel,Tom Hardy,Michelle Wiliams,Woody Harrelson
+323,Goliath- Season 4,"Picrow, Inc.",Amazon Studios,"Billy Bob Thornton, Lawrence Trilling, Derek Johansen","David E. Kelley, Jonathan Shapiro",Billy Bob Thornton,Nina Arianda,Tania Raymonde
+324,Shang-Chi and the Legend of the Ten Rings,Freelance Restorations LLC,Disney/Marvel,Destin Daniel Cretton,"Dave Callaham, Destin Daniel Cretton, Andrew Lanham",Simu Liu,Tony Chiu-Wai Leung,Awkwafina
+325,Clickbait,"MasterKey Studios, Inc.",Netflix,"Brad Anderson, Emma Freeman, Cherie Nowlan, Ben Young","Tony Ayres, Christian White",Zoe Kavan,Betty Gabriel,Adrian Grenier
+326,The Matrix Resurrections,"Adobe Pictures, Inc.",Warner Brothers,Lana Wachowski,"Lana Wachowski, David Mitchell, Aleksander Hemon",Keanu Reeves,Keanu Reeves,Neil Patrick Harris
